@@ -11,6 +11,9 @@ This is a python script that shows analytics for BikeShare data.
 Users can choose one of 3 cities (New York, Chicago, Washington), month, day.
 
 ### Files used
-
+Project_final_python.py
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
